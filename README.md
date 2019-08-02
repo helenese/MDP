@@ -15,4 +15,4 @@ Under the following terms:
     NonCommercial — You may not use the material for commercial purposes. 
     
  To cite this code, please refer to:
-H Seyr and M Muskulus, Use of Markov Decision Processes in the evaluation of maintenance scheduling policies for offshore wind farms; Energies 2019 (submitted)
+H Seyr and M Muskulus, Use of Markov Decision Processes in the Evaluation of Corrective Maintenance Scheduling Policies for Offshore Wind Farms; Energies 2019 (submitted)
